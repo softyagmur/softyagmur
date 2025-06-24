@@ -4,10 +4,16 @@
 👨‍💻 Full Stack Web Developer<br>📈 Aspiring Trader & Entrepreneur <br>🚀 Entrepreneur <br>🔌 Tinkering with electronics, bots and automation<br>📚 High School Student with a passion for building things<br><br> **➡️ Currently learning advanced backend systems & real-world architecture.**<br> **➡️ Building full stack apps with modern tools.**
 
 
-## 🌐 Socials:
+## 🌐 Find Me Online
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/softyyagmur)
 # 💻 Tech Stack:
-**JavaScript, Typescript,  HTML5, CSS, Vercel, Bun, DaisyUI, heroUI, express, NPM, node.js, react, tailwindcss, vite, MongoDB, Github, Arduino, Spike**
+**Languages:** <br>
+`JavaScript` `TypeScript` `HTML` `CSS`
+
+<br>
+**Frontend:**  <br>
+`React` `TailwindCSS` `Vite` `DaisyUI` `heroUI`
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=softyagmur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=softyagmur&theme=dark&hide_border=false)<br/>
