@@ -1,3 +1,4 @@
+<img src="avatar.jpg" />
 # 💫 About Me:
 👨‍💻 Full Stack Web Developer<br>📈 Trader<br>🚀 Entrepreneur <br>💡 Electronic Developer <br>📚 High School Student
 
