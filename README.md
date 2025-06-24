@@ -7,9 +7,9 @@
 # 💻 Tech Stack:
 **JavaScript, Typescript,  HTML5, CSS, Vercel, Bun, DaisyUI, heroUI, express, NPM, node.js, react, tailwindcss, vite, MongoDB, Github, Arduino, Spike**
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lourityy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lourityy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lourityy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=softyagmur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=softyagmur&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=softyagmur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lourityy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
