@@ -10,6 +10,15 @@
 **Languages:**  
 `JavaScript, Typescript, HTML, CSS`
 
+**Frontend:**
+`React, TailwindCSS, Vite, DaisyUI, heroUI`
+
+**Backend & Infra:**
+`Node.js, Express, MongoDB, Bun, NPM, Vercel`
+
+**Tools:**
+`Github, Arduino, Spike Prime`
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=softyagmur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=softyagmur&theme=dark&hide_border=false)<br/>
