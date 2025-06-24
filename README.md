@@ -10,13 +10,13 @@
 **Languages:**  
 `JavaScript, Typescript, HTML, CSS`
 
-**Frontend:**
+**Frontend:** <br>
 `React, TailwindCSS, Vite, DaisyUI, heroUI`
 
-**Backend & Infra:**
+**Backend & Infra:** <br>
 `Node.js, Express, MongoDB, Bun, NPM, Vercel`
 
-**Tools:**
+**Tools:** <br>
 `Github, Arduino, Spike Prime`
 
 # 📊 GitHub Stats:
