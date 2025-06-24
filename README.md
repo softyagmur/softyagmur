@@ -7,13 +7,8 @@
 ## 🌐 Find Me Online
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/softyyagmur)
 # 💻 Tech Stack:
-**Languages:** <br>
-`JavaScript` `TypeScript` `HTML` `CSS`
-
-<br>
-**Frontend:**  <br>
-`React` `TailwindCSS` `Vite` `DaisyUI` `heroUI`
-<br>
+**Languages:**  
+`JavaScript, Typescript, HTML, CSS`
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=softyagmur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
