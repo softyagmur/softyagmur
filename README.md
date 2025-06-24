@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/softyyagmur)
 # 💻 Tech Stack:
-JavaScript, Typescript,  HTML5, CSS, Vercel, Bun, DaisyUI, heroUI, express, NPM, node.js, react, tailwindcss, vite, MongoDB, Github, Arduino, Spike
+**JavaScript, Typescript,  HTML5, CSS, Vercel, Bun, DaisyUI, heroUI, express, NPM, node.js, react, tailwindcss, vite, MongoDB, Github, Arduino, Spike**
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lourityy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lourityy&theme=dark&hide_border=false)<br/>
