@@ -1,7 +1,7 @@
 # 👋 Hey, I'm İbrahim Y.
 
 # 💫 About Me:
-👨‍💻 Full Stack Web Developer<br>📈 Aspiring Trader & Entrepreneur <br>🚀 Entrepreneur <br>🔌 Tinkering with electronics, bots and automation<br>📚 High School Student with a passion for building things<br><br> **➡️ Currently learning advanced backend systems & real-world architecture.**<br> **➡️ Building full stack apps with modern tools.**
+👨‍💻 Full Stack Web Developer<br>📈 Aspiring Trader & Entrepreneur <br>🚀 Entrepreneur <br>🔌 Tinkering with electronics, bots and automation<br>📚 High School Student with a passion for building things<br>⚛️ Quantum physics basic level<br><br> **➡️ Currently learning advanced backend systems & real-world architecture.**<br> **➡️ Building full stack apps with modern tools.**
 
 
 ## 🌐 Find Me Online
