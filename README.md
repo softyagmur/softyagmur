@@ -8,8 +8,10 @@ As a **high school student**, I’m constantly seeking opportunities to learn, e
 I also have a foundational understanding of **quantum physics** and enjoy diving into scientific concepts.
 
 
-## 🌐 Find Me Online
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/softyyagmur)
+## 🔍 Currently Focused On:
+- Developing scalable backend systems and exploring real-world software architecture.
+- Building modern, full-stack applications using cutting-edge tools and technologies.
+- 
 # 💻 Tech Stack:
 **Languages:**  
 `JavaScript, Typescript, HTML, CSS`
