@@ -1,7 +1,11 @@
-# 👋 Hey, I'm İbrahim Y.
+# 👋 Hello, I'm İbrahim Y.
 
-# 💫 About Me:
-👨‍💻 Full Stack Web Developer<br>📈 Aspiring Trader & Entrepreneur<br>🔌 Tinkering with electronics, bots and automation<br>📚 High School Student with a passion for building things<br>⚛️ Quantum physics basic level<br><br> **➡️ Currently learning advanced backend systems & real-world architecture.**<br> **➡️ Building full stack apps with modern tools.**
+# 💫 About Me
+I am a **Self-Taught Developer** with a strong passion for building innovative digital solutions.
+In addition to software development, I’m actively exploring **entrepreneurship, algorithmic trading**, and **automation systems** including bots and electronics.
+
+As a **high school student**, I’m constantly seeking opportunities to learn, experiment, and grow—both personally and professionally.
+I also have a foundational understanding of **quantum physics** and enjoy diving into scientific concepts.
 
 
 ## 🌐 Find Me Online
