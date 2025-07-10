@@ -13,7 +13,8 @@ I also have a foundational understanding of **quantum physics** and enjoy diving
 - Building modern, full-stack applications using cutting-edge tools and technologies.
 
 ## 🌐 Connect With Me
-[Instagram](https://instagram.com/softyyagmur)
+[Instagram](https://instagram.com/softyyagmur) [![Instagram Badge](https://img.shields.io/badge/-@softyyagmur-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/softyyagmur)
+
 
 ## 💻 Tech Stack
 **Languages:** <br>
