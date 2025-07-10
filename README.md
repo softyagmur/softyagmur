@@ -11,9 +11,12 @@ I also have a foundational understanding of **quantum physics** and enjoy diving
 ## 🔍 Currently Focused On:
 - Developing scalable backend systems and exploring real-world software architecture.
 - Building modern, full-stack applications using cutting-edge tools and technologies.
-- 
-# 💻 Tech Stack:
-**Languages:**  
+
+## 🌐 Connect With Me
+[Instagram](https://instagram.com/softyyagmur)
+
+## 💻 Tech Stack
+**Languages:** <br>
 `JavaScript, Typescript, HTML, CSS`
 
 **Frontend:** <br>
@@ -23,7 +26,7 @@ I also have a foundational understanding of **quantum physics** and enjoy diving
 `Node.js, Express, MongoDB, Bun, NPM, Vercel`
 
 **Tools:** <br>
-`Github, Arduino, Spike Prime`
+`Github, Arduino, Spike Prime, Visual Studio, Visual Studio Code`
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=softyagmur&theme=radical&no-frame=false&no-bg=false&margin-w=4)
