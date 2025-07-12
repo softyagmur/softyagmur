@@ -1,4 +1,4 @@
-# 👋 Hello, I'm İbrahim Y.
+# 👋 Hello, I'm İ. Yağmur
 
 # 💫 About Me
 I am a **Self-Taught Developer** with a strong passion for building innovative digital solutions.
