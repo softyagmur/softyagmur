@@ -24,7 +24,7 @@ I also have a foundational understanding of **quantum physics** and enjoy diving
 `React, TailwindCSS, Vite, DaisyUI, heroUI`
 
 **Backend & Infra:** <br>
-`Node.js, Express, MongoDB, Bun, NPM, Vercel`
+`Node.js, Express, MongoDB, Bun, NPM, Vercel, C++`
 
 **Tools:** <br>
 `Github, Arduino, Spike Prime, Visual Studio, Visual Studio Code`
