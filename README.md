@@ -17,4 +17,4 @@ I also have a foundational understanding of **quantum physics** and enjoy diving
 
 
 ## 💻 Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=cpp,javascript,typescript,html,css,react,tailwind,vite,nodejs,express,mongodb,bun,npm,vercel,github,arduino,visualstudio,vscode)
+![Tech Stack](https://skillicons.dev/icons?i=cpp,javascript,typescript,html,css,react,tailwind,vite,nodejs,express,mongodb,bun,npm,vercel,git,github,arduino,visualstudio,vscode)
